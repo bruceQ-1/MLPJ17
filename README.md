@@ -1,5 +1,5 @@
 # PJ17 气温预测
-针对气温时序非线性、周期性特征，使用传统机器学习模型LSTM、XGboost，使用基于transformer架构的Sundial模型，以上海2010-2025年气象数据进行训练并验证，对比MAE、RMSE、R²。
+·针对气温时序非线性、周期性特征，使用传统机器学习模型LSTM、XGboost，使用基于transformer架构的Sundial模型，以上海2010-2025年气象数据进行训练并验证，对比MAE、RMSE、R²。
 ```
 ├── README.md
 ├── Sundial
