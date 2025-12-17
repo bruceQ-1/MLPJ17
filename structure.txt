@@ -1,0 +1,90 @@
+.
+├── README.md
+├── Sundial
+│   ├── LICENSE
+│   ├── README.md
+│   ├── examples
+│   │   └── quickstart_zero_shot_generation.ipynb
+│   └── figures
+│       ├── arch.png
+│       ├── compare.png
+│       ├── config.png
+│       └── cover.png
+├── data
+│   ├── logs
+│   │   ├── download_15y.log
+│   │   ├── download_2025.log
+│   │   └── download_log.txt
+│   ├── processed
+│   │   ├── shanghai_2010_2025.csv
+│   │   ├── shanghai_2010_2025_all_features.csv
+│   │   ├── shanghai_2010_2025_all_features.npy
+│   │   ├── shanghai_2010_2025_full.npy
+│   │   ├── test_2025_rich.csv
+│   │   ├── test_2025_rich.npy
+│   │   ├── train_2010_2014_rich.csv
+│   │   └── train_2010_2014_rich.npy
+│   └── raw
+│       ├── era5_data_15y
+│       └── era5_full_feat
+├── environment.yml
+├── models
+│   └── checkpoints
+├── requirements.txt
+├── results
+│   ├── figures
+│   │   ├── analysis_error_dist.png
+│   │   ├── analysis_hourly_error.png
+│   │   ├── analysis_scatter.png
+│   │   ├── final_model_battle.png
+│   │   ├── model_comparison.png
+│   │   ├── plot_result_Bi-LSTM.png
+│   │   ├── plot_result_LSTM-GAP.png
+│   │   ├── plot_result_LSTM.png
+│   │   ├── plot_result_Sundial.png
+│   │   ├── plot_result_XGBoost-GAP.png
+│   │   └── plot_result_XGBoost.png
+│   ├── logs
+│   │   ├── bilstm_2025_standard_results.npz
+│   │   ├── eval_2025_standard_results.npz
+│   │   ├── lstm_2025_standard_results.npz
+│   │   ├── lstm_gap_2025_results.npz
+│   │   ├── xgboost_2025_standard_results.npz
+│   │   └── xgboost_gap_2025_results.npz
+│   ├── metrics
+│   └── models
+│       └── best_lstm_model.pth
+├── scripts
+│   ├── data_processing
+│   │   ├── batch_process_data.py
+│   │   ├── check_nc.py
+│   │   ├── download.py
+│   │   ├── download_15years.py
+│   │   ├── download_all.log
+│   │   ├── download_all.py
+│   │   ├── fix_15y_zips.py
+│   │   ├── fix_all_zips.py
+│   │   ├── fix_zip.py
+│   │   ├── fix_zip_files.py
+│   │   ├── inspect_data.py
+│   │   ├── process_15years.py
+│   │   └── process_all.py
+│   ├── model
+│   │   ├── compare_all_models.py
+│   │   ├── compare_analysis.py
+│   │   ├── plot_bilstm.py
+│   │   ├── plot_from_npz.py
+│   │   ├── plot_lstm.py
+│   │   ├── plot_lstm_gap.py
+│   │   ├── plot_xgboost.py
+│   │   ├── plot_xgboost_gap.py
+│   │   ├── run_bilstm.py
+│   │   ├── run_lstm2predict.py
+│   │   ├── run_lstm_gap_2025.py
+│   │   ├── run_sundial2predict.py
+│   │   ├── run_xgboost2predict.py
+│   │   └── run_xgboost_gap_2025.py
+│   └── utils
+└── structure.txt
+
+20 directories, 67 files

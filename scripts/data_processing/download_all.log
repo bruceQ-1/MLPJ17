@@ -1,0 +1,511 @@
+nohup: ignoring input
+2025-12-15 20:57:58,899 INFO [2025-12-03T00:00:00Z] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-12-15 20:57:59,460 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-15 20:57:59,460 INFO Request ID is b5e70bd5-330a-4c0f-a10a-6a9410515bea
+2025-12-15 20:58:00,250 INFO status has been updated to accepted
+2025-12-15 20:58:15,903 INFO status has been updated to running
+2025-12-15 21:10:30,661 INFO status has been updated to successful
+📥 开始下载全特征数据集 (2010-2025)...
+⏳ 请求中: 2010-01 ...
+7c5a8ae76502b56352f469f06db475b3.zip:   0%|          | 0.00/1.86M [00:00<?, ?B/s]7c5a8ae76502b56352f469f06db475b3.zip:  54%|█████▍    | 1.00M/1.86M [01:25<01:13, 12.3kB/s]7c5a8ae76502b56352f469f06db475b3.zip:  54%|█████▍    | 1.00M/1.86M [01:40<01:13, 12.3kB/s]7c5a8ae76502b56352f469f06db475b3.zip: 100%|██████████| 1.86M/1.86M [02:39<00:00, 12.2kB/s]                                                                                          2025-12-15 21:13:16,882 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-15 21:13:16,882 INFO Request ID is b204d945-8a3b-4ca3-9605-31ea809bd9e4
+2025-12-15 21:13:17,082 INFO status has been updated to accepted
+2025-12-15 21:13:40,320 INFO status has been updated to running
+2025-12-15 21:23:42,157 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2010_01.nc
+⏳ 请求中: 2010-02 ...
+7e4c77a31d0f80048c93a087c4149009.zip:   0%|          | 0.00/1.78M [00:00<?, ?B/s]7e4c77a31d0f80048c93a087c4149009.zip:  56%|█████▌    | 1.00M/1.78M [01:07<00:52, 15.6kB/s]7e4c77a31d0f80048c93a087c4149009.zip:  56%|█████▌    | 1.00M/1.78M [01:19<00:52, 15.6kB/s]7e4c77a31d0f80048c93a087c4149009.zip: 100%|██████████| 1.78M/1.78M [01:55<00:00, 16.3kB/s]                                                                                          2025-12-15 21:25:43,294 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-15 21:25:43,295 INFO Request ID is 512aa925-95e8-4b30-8fda-e31236740e0e
+2025-12-15 21:25:43,844 INFO status has been updated to accepted
+2025-12-15 21:25:58,346 INFO status has been updated to running
+2025-12-15 21:38:13,627 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2010_02.nc
+⏳ 请求中: 2010-03 ...
+64d960e711aec25238c6bc7b9159826d.zip:   0%|          | 0.00/1.95M [00:00<?, ?B/s]64d960e711aec25238c6bc7b9159826d.zip:  51%|█████▏    | 1.00M/1.95M [01:01<00:57, 17.2kB/s]64d960e711aec25238c6bc7b9159826d.zip:  51%|█████▏    | 1.00M/1.95M [01:16<00:57, 17.2kB/s]64d960e711aec25238c6bc7b9159826d.zip: 100%|██████████| 1.95M/1.95M [02:07<00:00, 15.8kB/s]                                                                                          2025-12-15 21:40:25,603 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-15 21:40:25,603 INFO Request ID is 1767bb6f-449d-451f-9ca5-0b571f1edf57
+2025-12-15 21:40:25,817 INFO status has been updated to accepted
+2025-12-15 21:44:50,608 INFO status has been updated to running
+2025-12-15 21:54:56,826 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2010_03.nc
+⏳ 请求中: 2010-04 ...
+dafcd6c1bd88dec5c0b4ee30c82b6684.zip:   0%|          | 0.00/1.89M [00:00<?, ?B/s]dafcd6c1bd88dec5c0b4ee30c82b6684.zip:  53%|█████▎    | 1.00M/1.89M [01:26<01:17, 12.1kB/s]dafcd6c1bd88dec5c0b4ee30c82b6684.zip:  53%|█████▎    | 1.00M/1.89M [01:45<01:17, 12.1kB/s]dafcd6c1bd88dec5c0b4ee30c82b6684.zip: 100%|██████████| 1.89M/1.89M [02:21<00:00, 14.5kB/s]                                                                                          2025-12-15 21:57:20,852 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-15 21:57:20,853 INFO Request ID is b8567ba2-39b1-4fe5-846f-7f39bebf300a
+2025-12-15 21:57:21,100 INFO status has been updated to accepted
+2025-12-15 22:00:18,205 INFO status has been updated to running
+2025-12-15 22:12:01,565 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2010_04.nc
+⏳ 请求中: 2010-05 ...
+8284ea3cf65d4fe51c6fbaa83fe0fe8f.zip:   0%|          | 0.00/1.94M [00:00<?, ?B/s]8284ea3cf65d4fe51c6fbaa83fe0fe8f.zip:  52%|█████▏    | 1.00M/1.94M [01:09<01:04, 15.2kB/s]8284ea3cf65d4fe51c6fbaa83fe0fe8f.zip:  52%|█████▏    | 1.00M/1.94M [01:19<01:04, 15.2kB/s]8284ea3cf65d4fe51c6fbaa83fe0fe8f.zip: 100%|██████████| 1.94M/1.94M [02:20<00:00, 14.4kB/s]                                                                                          2025-12-15 22:14:25,260 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-15 22:14:25,261 INFO Request ID is e0d2912d-367a-4beb-9383-1877718cdeec
+2025-12-15 22:14:25,500 INFO status has been updated to accepted
+2025-12-15 22:20:50,099 INFO status has been updated to running
+2025-12-15 22:30:55,855 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2010_05.nc
+⏳ 请求中: 2010-06 ...
+7bfb478a58778a15229a6fda38df3137.zip:   0%|          | 0.00/1.94M [00:00<?, ?B/s]7bfb478a58778a15229a6fda38df3137.zip:  52%|█████▏    | 1.00M/1.94M [01:10<01:05, 14.9kB/s]7bfb478a58778a15229a6fda38df3137.zip:  52%|█████▏    | 1.00M/1.94M [01:25<01:05, 14.9kB/s]7bfb478a58778a15229a6fda38df3137.zip: 100%|██████████| 1.94M/1.94M [02:20<00:00, 14.3kB/s]                                                                                          2025-12-15 22:33:21,016 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-15 22:33:21,016 INFO Request ID is 171011a3-1f2a-4c5a-9237-566fbe562d48
+2025-12-15 22:33:21,218 INFO status has been updated to accepted
+2025-12-15 22:35:16,544 INFO status has been updated to running
+2025-12-15 22:47:52,189 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2010_06.nc
+⏳ 请求中: 2010-07 ...
+5fed355f3cf7b1b29172547bb109003c.zip:   0%|          | 0.00/2.02M [00:00<?, ?B/s]5fed355f3cf7b1b29172547bb109003c.zip:  49%|████▉     | 1.00M/2.02M [01:26<01:29, 12.1kB/s]5fed355f3cf7b1b29172547bb109003c.zip:  49%|████▉     | 1.00M/2.02M [01:40<01:29, 12.1kB/s]5fed355f3cf7b1b29172547bb109003c.zip:  99%|█████████▉| 2.00M/2.02M [02:46<00:02, 12.7kB/s]5fed355f3cf7b1b29172547bb109003c.zip: 100%|██████████| 2.02M/2.02M [02:47<00:00, 12.8kB/s]                                                                                          2025-12-15 22:50:43,971 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-15 22:50:43,972 INFO Request ID is d71941b8-1dab-4f78-9154-c50dc366accf
+2025-12-15 22:50:44,193 INFO status has been updated to accepted
+2025-12-15 22:51:36,846 INFO status has been updated to running
+2025-12-15 23:03:10,862 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2010_07.nc
+⏳ 请求中: 2010-08 ...
+f53c30c4f834adc5a602576b78245ea9.zip:   0%|          | 0.00/2.00M [00:00<?, ?B/s]f53c30c4f834adc5a602576b78245ea9.zip:  50%|█████     | 1.00M/2.00M [01:08<01:08, 15.3kB/s]f53c30c4f834adc5a602576b78245ea9.zip:  50%|█████     | 1.00M/2.00M [01:20<01:08, 15.3kB/s]f53c30c4f834adc5a602576b78245ea9.zip: 100%|██████████| 2.00M/2.00M [02:20<00:00, 14.9kB/s]                                                                                          2025-12-15 23:05:36,908 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-15 23:05:36,908 INFO Request ID is 210801c9-0cd9-4c5f-bdbe-582084b835b1
+2025-12-15 23:05:38,406 INFO status has been updated to accepted
+2025-12-15 23:05:48,325 INFO status has been updated to running
+2025-12-15 23:18:12,658 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2010_08.nc
+⏳ 请求中: 2010-09 ...
+c25feb25652d6ee4070b8027d0e77a7f.zip:   0%|          | 0.00/1.94M [00:00<?, ?B/s]c25feb25652d6ee4070b8027d0e77a7f.zip:  51%|█████▏    | 1.00M/1.94M [01:05<01:01, 15.9kB/s]c25feb25652d6ee4070b8027d0e77a7f.zip:  51%|█████▏    | 1.00M/1.94M [01:19<01:01, 15.9kB/s]c25feb25652d6ee4070b8027d0e77a7f.zip: 100%|██████████| 1.94M/1.94M [02:20<00:00, 14.3kB/s]                                                                                          2025-12-15 23:20:35,827 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-15 23:20:35,827 INFO Request ID is 3e69d5e9-a8e3-4a6e-86c6-0c73d749c05d
+2025-12-15 23:20:36,236 INFO status has been updated to accepted
+2025-12-15 23:23:33,033 INFO status has been updated to running
+2025-12-15 23:35:12,802 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2010_09.nc
+⏳ 请求中: 2010-10 ...
+40d9f41e6e25b5e41b482c430feaa4c8.zip:   0%|          | 0.00/1.91M [00:00<?, ?B/s]40d9f41e6e25b5e41b482c430feaa4c8.zip:  52%|█████▏    | 1.00M/1.91M [01:17<01:10, 13.6kB/s]40d9f41e6e25b5e41b482c430feaa4c8.zip:  52%|█████▏    | 1.00M/1.91M [01:27<01:10, 13.6kB/s]40d9f41e6e25b5e41b482c430feaa4c8.zip: 100%|██████████| 1.91M/1.91M [02:28<00:00, 13.4kB/s]                                                                                          2025-12-15 23:37:46,416 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-15 23:37:46,416 INFO Request ID is 9071a6c9-5451-4658-a6a1-a346789c3edf
+2025-12-15 23:37:46,626 INFO status has been updated to accepted
+2025-12-15 23:38:00,871 INFO status has been updated to running
+2025-12-15 23:50:15,190 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2010_10.nc
+⏳ 请求中: 2010-11 ...
+4a1c693e446e5457e7f495cd88aa1eef.zip:   0%|          | 0.00/1.77M [00:00<?, ?B/s]4a1c693e446e5457e7f495cd88aa1eef.zip:  56%|█████▋    | 1.00M/1.77M [00:59<00:45, 17.6kB/s]4a1c693e446e5457e7f495cd88aa1eef.zip:  56%|█████▋    | 1.00M/1.77M [01:17<00:45, 17.6kB/s]4a1c693e446e5457e7f495cd88aa1eef.zip: 100%|██████████| 1.77M/1.77M [01:49<00:00, 16.8kB/s]                                                                                          2025-12-15 23:52:07,744 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-15 23:52:07,745 INFO Request ID is 3a5ab28f-da70-482e-9407-af382dfb32c3
+2025-12-15 23:52:07,963 INFO status has been updated to accepted
+2025-12-15 23:52:41,670 INFO status has been updated to running
+2025-12-16 00:04:33,954 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2010_11.nc
+⏳ 请求中: 2010-12 ...
+4a26388887a6ae3b1833cca9c9cbe24b.zip:   0%|          | 0.00/1.82M [00:00<?, ?B/s]4a26388887a6ae3b1833cca9c9cbe24b.zip:  55%|█████▍    | 1.00M/1.82M [00:58<00:48, 17.9kB/s]4a26388887a6ae3b1833cca9c9cbe24b.zip:  55%|█████▍    | 1.00M/1.82M [01:08<00:48, 17.9kB/s]4a26388887a6ae3b1833cca9c9cbe24b.zip: 100%|██████████| 1.82M/1.82M [01:46<00:00, 18.0kB/s]                                                                                          2025-12-16 00:06:22,190 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 00:06:22,191 INFO Request ID is b298d412-6a94-4998-876f-97640ea46fc5
+2025-12-16 00:06:22,469 INFO status has been updated to accepted
+2025-12-16 00:06:36,610 INFO status has been updated to running
+2025-12-16 00:18:48,957 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2010_12.nc
+⏳ 请求中: 2011-01 ...
+cf9ac2431dd910ec7a482090e5431356.zip:   0%|          | 0.00/1.89M [00:00<?, ?B/s]cf9ac2431dd910ec7a482090e5431356.zip:  53%|█████▎    | 1.00M/1.89M [00:54<00:48, 19.3kB/s]cf9ac2431dd910ec7a482090e5431356.zip:  53%|█████▎    | 1.00M/1.89M [01:13<00:48, 19.3kB/s]cf9ac2431dd910ec7a482090e5431356.zip: 100%|██████████| 1.89M/1.89M [01:35<00:00, 21.1kB/s]                                                                                          2025-12-16 00:20:25,814 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 00:20:25,814 INFO Request ID is 5a36fd23-3f64-43e7-a04b-1b1a29353887
+2025-12-16 00:20:26,016 INFO status has been updated to accepted
+2025-12-16 00:20:34,979 INFO status has been updated to running
+2025-12-16 00:32:51,353 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2011_01.nc
+⏳ 请求中: 2011-02 ...
+e344af90ae5b41e319be761071926a57.zip:   0%|          | 0.00/1.70M [00:00<?, ?B/s]e344af90ae5b41e319be761071926a57.zip:  59%|█████▊    | 1.00M/1.70M [00:45<00:31, 23.2kB/s]e344af90ae5b41e319be761071926a57.zip:  59%|█████▊    | 1.00M/1.70M [01:01<00:31, 23.2kB/s]e344af90ae5b41e319be761071926a57.zip: 100%|██████████| 1.70M/1.70M [01:14<00:00, 24.2kB/s]                                                                                          2025-12-16 00:34:09,746 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 00:34:09,747 INFO Request ID is 8a1a6fbd-071c-48ab-bf37-66ba7774439b
+2025-12-16 00:34:09,959 INFO status has been updated to accepted
+2025-12-16 00:34:24,237 INFO status has been updated to running
+2025-12-16 00:44:34,468 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2011_02.nc
+⏳ 请求中: 2011-03 ...
+e5836519ffb31f13e68499566b5f1470.zip:   0%|          | 0.00/1.89M [00:00<?, ?B/s]e5836519ffb31f13e68499566b5f1470.zip:  53%|█████▎    | 1.00M/1.89M [00:32<00:28, 32.5kB/s]e5836519ffb31f13e68499566b5f1470.zip:  53%|█████▎    | 1.00M/1.89M [00:48<00:28, 32.5kB/s]e5836519ffb31f13e68499566b5f1470.zip: 100%|██████████| 1.89M/1.89M [00:57<00:00, 34.7kB/s]                                                                                          2025-12-16 00:45:34,490 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 00:45:34,491 INFO Request ID is 277ff15c-f2c0-4fcd-b242-b14971f50117
+2025-12-16 00:45:34,759 INFO status has been updated to accepted
+2025-12-16 00:45:50,624 INFO status has been updated to running
+2025-12-16 00:45:58,460 INFO status has been updated to accepted
+2025-12-16 00:46:10,093 INFO status has been updated to running
+2025-12-16 00:55:59,711 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2011_03.nc
+⏳ 请求中: 2011-04 ...
+9faa53437a9ad449f785f1a6c7caabb9.zip:   0%|          | 0.00/1.85M [00:00<?, ?B/s]9faa53437a9ad449f785f1a6c7caabb9.zip:  54%|█████▍    | 1.00M/1.85M [00:15<00:13, 67.9kB/s]9faa53437a9ad449f785f1a6c7caabb9.zip:  54%|█████▍    | 1.00M/1.85M [00:32<00:13, 67.9kB/s]9faa53437a9ad449f785f1a6c7caabb9.zip: 100%|██████████| 1.85M/1.85M [00:36<00:00, 51.5kB/s]                                                                                          2025-12-16 00:56:37,583 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 00:56:37,584 INFO Request ID is 383ae8e3-cf4f-4785-9b7e-f45178c00a65
+2025-12-16 00:56:37,789 INFO status has been updated to accepted
+2025-12-16 00:56:51,954 INFO status has been updated to running
+2025-12-16 01:07:01,572 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2011_04.nc
+⏳ 请求中: 2011-05 ...
+bc069351ea9e2c62ea96aa80881418d9.zip:   0%|          | 0.00/1.92M [00:00<?, ?B/s]bc069351ea9e2c62ea96aa80881418d9.zip:  52%|█████▏    | 1.00M/1.92M [00:01<00:01, 631kB/s]bc069351ea9e2c62ea96aa80881418d9.zip: 100%|██████████| 1.92M/1.92M [00:02<00:00, 1.07MB/s]                                                                                          2025-12-16 01:07:05,054 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 01:07:05,054 INFO Request ID is 5b75a22c-f162-4835-a623-7e83e869f93c
+2025-12-16 01:07:05,253 INFO status has been updated to accepted
+2025-12-16 01:07:27,197 INFO status has been updated to running
+2025-12-16 01:17:28,004 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2011_05.nc
+⏳ 请求中: 2011-06 ...
+a2c38a6eaeb5d3a57b070bda136e970f.zip:   0%|          | 0.00/1.99M [00:00<?, ?B/s]a2c38a6eaeb5d3a57b070bda136e970f.zip:  50%|█████     | 1.00M/1.99M [00:01<00:01, 672kB/s]a2c38a6eaeb5d3a57b070bda136e970f.zip: 100%|██████████| 1.99M/1.99M [00:01<00:00, 1.41MB/s]                                                                                          2025-12-16 01:17:31,431 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 01:17:31,431 INFO Request ID is c5c67985-07d1-48f3-b2fa-0d74cac95681
+2025-12-16 01:17:31,637 INFO status has been updated to accepted
+2025-12-16 01:18:05,256 INFO status has been updated to running
+2025-12-16 01:29:55,534 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2011_06.nc
+⏳ 请求中: 2011-07 ...
+be7e7ea603b741bff9e0ab2a62c07474.zip:   0%|          | 0.00/1.98M [00:00<?, ?B/s]be7e7ea603b741bff9e0ab2a62c07474.zip:  51%|█████     | 1.00M/1.98M [00:02<00:02, 495kB/s]be7e7ea603b741bff9e0ab2a62c07474.zip: 100%|██████████| 1.98M/1.98M [00:02<00:00, 1.03MB/s]                                                                                          2025-12-16 01:29:59,375 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 01:29:59,376 INFO Request ID is 950a29f3-4f25-4b2a-9d7f-1ae207c95bab
+2025-12-16 01:29:59,591 INFO status has been updated to accepted
+2025-12-16 01:30:21,695 INFO status has been updated to running
+2025-12-16 01:40:23,875 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2011_07.nc
+⏳ 请求中: 2011-08 ...
+ba3b6e116bd2132f6a2cb1cf7cb4b89b.zip:   0%|          | 0.00/2.03M [00:00<?, ?B/s]ba3b6e116bd2132f6a2cb1cf7cb4b89b.zip:  49%|████▉     | 1.00M/2.03M [00:02<00:02, 505kB/s]ba3b6e116bd2132f6a2cb1cf7cb4b89b.zip:  99%|█████████▊| 2.00M/2.03M [00:02<00:00, 847kB/s]                                                                                         2025-12-16 01:40:28,312 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 01:40:28,313 INFO Request ID is 54939a28-0fe1-4f49-84a2-c9a58b17e323
+2025-12-16 01:40:28,581 INFO status has been updated to accepted
+2025-12-16 01:41:03,292 INFO status has been updated to running
+2025-12-16 01:52:53,322 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2011_08.nc
+⏳ 请求中: 2011-09 ...
+1adff262bf8fcc205530b99185bf39b3.zip:   0%|          | 0.00/1.86M [00:00<?, ?B/s]1adff262bf8fcc205530b99185bf39b3.zip:  54%|█████▎    | 1.00M/1.86M [00:01<00:01, 635kB/s]1adff262bf8fcc205530b99185bf39b3.zip: 100%|██████████| 1.86M/1.86M [00:01<00:00, 1.23MB/s]                                                                                          2025-12-16 01:52:56,789 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 01:52:56,789 INFO Request ID is 45da93bb-ad6f-48e6-abf0-2e484b4289ae
+2025-12-16 01:52:57,016 INFO status has been updated to accepted
+2025-12-16 01:53:47,868 INFO status has been updated to running
+2025-12-16 02:05:20,787 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2011_09.nc
+⏳ 请求中: 2011-10 ...
+3ead07adb98111cdb4f8b82ccc730d71.zip:   0%|          | 0.00/1.89M [00:00<?, ?B/s]3ead07adb98111cdb4f8b82ccc730d71.zip:  53%|█████▎    | 1.00M/1.89M [00:02<00:01, 524kB/s]3ead07adb98111cdb4f8b82ccc730d71.zip: 100%|██████████| 1.89M/1.89M [00:02<00:00, 749kB/s]                                                                                         2025-12-16 02:05:25,492 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 02:05:25,492 INFO Request ID is de208c68-343d-459b-a1f6-a16a387d151e
+2025-12-16 02:05:25,758 INFO status has been updated to accepted
+2025-12-16 02:05:59,737 INFO status has been updated to running
+2025-12-16 02:17:49,630 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2011_10.nc
+⏳ 请求中: 2011-11 ...
+668d00dec91c0076cd9e284e59c501ac.zip:   0%|          | 0.00/1.85M [00:00<?, ?B/s]668d00dec91c0076cd9e284e59c501ac.zip:  54%|█████▍    | 1.00M/1.85M [00:02<00:01, 502kB/s]668d00dec91c0076cd9e284e59c501ac.zip: 100%|██████████| 1.85M/1.85M [00:02<00:00, 992kB/s]                                                                                         2025-12-16 02:17:53,428 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 02:17:53,428 INFO Request ID is ed331303-e12a-47c9-9682-1d2ca6086886
+2025-12-16 02:17:53,640 INFO status has been updated to accepted
+2025-12-16 02:18:07,807 INFO status has been updated to running
+2025-12-16 02:30:18,042 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2011_11.nc
+⏳ 请求中: 2011-12 ...
+5acd78e06c9460dd6b0abc05785dea41.zip:   0%|          | 0.00/1.83M [00:00<?, ?B/s]5acd78e06c9460dd6b0abc05785dea41.zip:  55%|█████▍    | 1.00M/1.83M [00:01<00:01, 642kB/s]5acd78e06c9460dd6b0abc05785dea41.zip: 100%|██████████| 1.83M/1.83M [00:01<00:00, 1.27MB/s]                                                                                          2025-12-16 02:30:21,497 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 02:30:21,497 INFO Request ID is dd4cc12a-e323-4b7c-9e2d-afe686ed6356
+2025-12-16 02:30:21,727 INFO status has been updated to accepted
+2025-12-16 02:30:43,677 INFO status has been updated to running
+2025-12-16 02:42:45,222 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2011_12.nc
+⏳ 请求中: 2012-01 ...
+7c5ba0146a6232ff64a55531e41f894e.zip:   0%|          | 0.00/1.89M [00:00<?, ?B/s]7c5ba0146a6232ff64a55531e41f894e.zip:  53%|█████▎    | 1.00M/1.89M [00:01<00:01, 638kB/s]7c5ba0146a6232ff64a55531e41f894e.zip: 100%|██████████| 1.89M/1.89M [00:01<00:00, 1.26MB/s]                                                                                          2025-12-16 02:42:48,651 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 02:42:48,652 INFO Request ID is 450c9e75-6e7e-4017-8b8e-9307f57c78dd
+2025-12-16 02:42:48,863 INFO status has been updated to accepted
+2025-12-16 02:43:03,059 INFO status has been updated to running
+2025-12-16 02:55:12,235 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2012_01.nc
+⏳ 请求中: 2012-02 ...
+f521159348cbe273351227928effe6c0.zip:   0%|          | 0.00/1.84M [00:00<?, ?B/s]f521159348cbe273351227928effe6c0.zip:  54%|█████▍    | 1.00M/1.84M [00:01<00:01, 670kB/s]f521159348cbe273351227928effe6c0.zip: 100%|██████████| 1.84M/1.84M [00:01<00:00, 1.28MB/s]                                                                                          2025-12-16 02:55:15,493 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 02:55:15,494 INFO Request ID is 1c670fa3-b599-4c75-933f-afd7afbbb013
+2025-12-16 02:55:15,702 INFO status has been updated to accepted
+2025-12-16 02:55:31,018 INFO status has been updated to running
+2025-12-16 02:55:38,848 INFO status has been updated to accepted
+2025-12-16 02:55:50,436 INFO status has been updated to running
+2025-12-16 03:05:39,972 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2012_02.nc
+⏳ 请求中: 2012-03 ...
+d2aa161766a7443782f8691d53df62b6.zip:   0%|          | 0.00/1.94M [00:00<?, ?B/s]d2aa161766a7443782f8691d53df62b6.zip:  51%|█████▏    | 1.00M/1.94M [00:02<00:02, 494kB/s]d2aa161766a7443782f8691d53df62b6.zip: 100%|██████████| 1.94M/1.94M [00:02<00:00, 1.01MB/s]                                                                                          2025-12-16 03:05:43,930 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 03:05:43,931 INFO Request ID is 69850608-d781-470a-8df9-5b47c3f4bdb5
+2025-12-16 03:05:44,129 INFO status has been updated to accepted
+2025-12-16 03:06:34,960 INFO status has been updated to running
+2025-12-16 03:18:07,893 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2012_03.nc
+⏳ 请求中: 2012-04 ...
+2a975503d929f6a464a301cc5ea862a8.zip:   0%|          | 0.00/1.89M [00:00<?, ?B/s]2a975503d929f6a464a301cc5ea862a8.zip:  53%|█████▎    | 1.00M/1.89M [00:01<00:01, 655kB/s]2a975503d929f6a464a301cc5ea862a8.zip: 100%|██████████| 1.89M/1.89M [00:01<00:00, 1.30MB/s]                                                                                          2025-12-16 03:18:11,339 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 03:18:11,340 INFO Request ID is 1da403d7-def4-42d7-8719-cc074e3cec40
+2025-12-16 03:18:11,618 INFO status has been updated to accepted
+2025-12-16 03:18:26,047 INFO status has been updated to running
+2025-12-16 03:30:35,556 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2012_04.nc
+⏳ 请求中: 2012-05 ...
+7260181d803811a4241e9aeb946a9298.zip:   0%|          | 0.00/1.95M [00:00<?, ?B/s]7260181d803811a4241e9aeb946a9298.zip:  51%|█████▏    | 1.00M/1.95M [00:01<00:01, 660kB/s]7260181d803811a4241e9aeb946a9298.zip: 100%|██████████| 1.95M/1.95M [00:01<00:00, 1.35MB/s]                                                                                          2025-12-16 03:30:38,952 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 03:30:38,953 INFO Request ID is 29f68d94-dd59-4020-8e1f-75b4a4edbdeb
+2025-12-16 03:30:39,182 INFO status has been updated to accepted
+2025-12-16 03:30:48,282 INFO status has been updated to running
+2025-12-16 03:43:02,740 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2012_05.nc
+⏳ 请求中: 2012-06 ...
+d1995f6fa1efc5b032a7bef53d0c4a1e.zip:   0%|          | 0.00/1.95M [00:00<?, ?B/s]d1995f6fa1efc5b032a7bef53d0c4a1e.zip:  51%|█████▏    | 1.00M/1.95M [00:01<00:01, 587kB/s]d1995f6fa1efc5b032a7bef53d0c4a1e.zip: 100%|██████████| 1.95M/1.95M [00:01<00:00, 1.20MB/s]                                                                                          2025-12-16 03:43:06,311 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 03:43:06,311 INFO Request ID is 04715541-aab5-4870-b87e-0b58fa9099de
+2025-12-16 03:43:06,519 INFO status has been updated to accepted
+2025-12-16 03:43:20,960 INFO status has been updated to running
+2025-12-16 03:55:30,540 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2012_06.nc
+⏳ 请求中: 2012-07 ...
+b143dbd71bf8c3fb6a3ab88a9f378800.zip:   0%|          | 0.00/1.99M [00:00<?, ?B/s]b143dbd71bf8c3fb6a3ab88a9f378800.zip:  50%|█████     | 1.00M/1.99M [00:02<00:02, 508kB/s]b143dbd71bf8c3fb6a3ab88a9f378800.zip: 100%|██████████| 1.99M/1.99M [00:02<00:00, 1.07MB/s]                                                                                          2025-12-16 03:55:34,332 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 03:55:34,332 INFO Request ID is 7e7c78a7-adb0-48d8-ad5d-4021129ec727
+2025-12-16 03:55:34,543 INFO status has been updated to accepted
+2025-12-16 03:55:48,789 INFO status has been updated to running
+2025-12-16 04:07:58,274 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2012_07.nc
+⏳ 请求中: 2012-08 ...
+3f4f172b280ceab48d39f1ba9221c0c9.zip:   0%|          | 0.00/2.00M [00:00<?, ?B/s]3f4f172b280ceab48d39f1ba9221c0c9.zip:  50%|█████     | 1.00M/2.00M [00:01<00:01, 660kB/s]3f4f172b280ceab48d39f1ba9221c0c9.zip: 100%|██████████| 2.00M/2.00M [00:01<00:00, 1.39MB/s]                                                                                          2025-12-16 04:08:01,690 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 04:08:01,691 INFO Request ID is 9e01aeb7-fc4d-4e00-9981-024b5bded7e6
+2025-12-16 04:08:01,914 INFO status has been updated to accepted
+2025-12-16 04:08:35,498 INFO status has been updated to running
+2025-12-16 04:20:25,737 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2012_08.nc
+⏳ 请求中: 2012-09 ...
+766b4e436a0e3d93c20ebfcfda4e560.zip:   0%|          | 0.00/1.89M [00:00<?, ?B/s]766b4e436a0e3d93c20ebfcfda4e560.zip:  53%|█████▎    | 1.00M/1.89M [00:01<00:01, 626kB/s]766b4e436a0e3d93c20ebfcfda4e560.zip: 100%|██████████| 1.89M/1.89M [00:01<00:00, 1.24MB/s]                                                                                         2025-12-16 04:20:29,184 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 04:20:29,184 INFO Request ID is c6ad8de8-bb54-4781-8939-b55f95dda623
+2025-12-16 04:20:29,435 INFO status has been updated to accepted
+2025-12-16 04:21:03,359 INFO status has been updated to running
+2025-12-16 04:32:53,467 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2012_09.nc
+⏳ 请求中: 2012-10 ...
+62c6636198c7c78f4dbe816d150e2622.zip:   0%|          | 0.00/1.86M [00:00<?, ?B/s]62c6636198c7c78f4dbe816d150e2622.zip:  54%|█████▍    | 1.00M/1.86M [00:02<00:01, 502kB/s]62c6636198c7c78f4dbe816d150e2622.zip: 100%|██████████| 1.86M/1.86M [00:02<00:00, 971kB/s]                                                                                         2025-12-16 04:32:57,468 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 04:32:57,469 INFO Request ID is b7c55815-57ac-4619-b0d0-7bb82e8803ee
+2025-12-16 04:32:57,723 INFO status has been updated to accepted
+2025-12-16 04:33:12,160 INFO status has been updated to running
+2025-12-16 04:45:21,942 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2012_10.nc
+⏳ 请求中: 2012-11 ...
+f0f656e3073cf8aca0b2981f9e6e7e27.zip:   0%|          | 0.00/1.85M [00:00<?, ?B/s]f0f656e3073cf8aca0b2981f9e6e7e27.zip:  54%|█████▍    | 1.00M/1.85M [00:01<00:01, 624kB/s]f0f656e3073cf8aca0b2981f9e6e7e27.zip: 100%|██████████| 1.85M/1.85M [00:01<00:00, 1.22MB/s]                                                                                          2025-12-16 04:45:25,381 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 04:45:25,381 INFO Request ID is 5c3596b3-a57f-4aad-966e-1a64d3a206bd
+2025-12-16 04:45:25,631 INFO status has been updated to accepted
+2025-12-16 04:45:34,750 INFO status has been updated to running
+2025-12-16 04:57:49,576 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2012_11.nc
+⏳ 请求中: 2012-12 ...
+d62c46ed0649891fbbe3889a3fab2d15.zip:   0%|          | 0.00/1.90M [00:00<?, ?B/s]d62c46ed0649891fbbe3889a3fab2d15.zip:  53%|█████▎    | 1.00M/1.90M [00:02<00:01, 517kB/s]d62c46ed0649891fbbe3889a3fab2d15.zip: 100%|██████████| 1.90M/1.90M [00:02<00:00, 1.03MB/s]                                                                                          2025-12-16 04:57:53,457 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 04:57:53,457 INFO Request ID is 4fea23f5-7736-4791-9712-6901c644e626
+2025-12-16 04:57:53,648 INFO status has been updated to accepted
+2025-12-16 04:58:07,849 INFO status has been updated to running
+2025-12-16 05:08:18,807 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2012_12.nc
+⏳ 请求中: 2013-01 ...
+f863c0b6ae3a0fe46f9edb06e272370e.zip:   0%|          | 0.00/1.86M [00:00<?, ?B/s]f863c0b6ae3a0fe46f9edb06e272370e.zip:  54%|█████▎    | 1.00M/1.86M [00:01<00:01, 624kB/s]f863c0b6ae3a0fe46f9edb06e272370e.zip: 100%|██████████| 1.86M/1.86M [00:01<00:00, 1.22MB/s]                                                                                          2025-12-16 05:08:22,103 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 05:08:22,104 INFO Request ID is 48f42409-3022-4ff6-8403-913c69537cc2
+2025-12-16 05:08:22,305 INFO status has been updated to accepted
+2025-12-16 05:08:36,496 INFO status has been updated to running
+2025-12-16 05:20:46,846 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2013_01.nc
+⏳ 请求中: 2013-02 ...
+e83e545c5274a69488e7851daed267f2.zip:   0%|          | 0.00/1.77M [00:00<?, ?B/s]e83e545c5274a69488e7851daed267f2.zip:  56%|█████▋    | 1.00M/1.77M [00:02<00:01, 508kB/s]e83e545c5274a69488e7851daed267f2.zip: 100%|██████████| 1.77M/1.77M [00:02<00:00, 975kB/s]                                                                                         2025-12-16 05:20:50,682 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 05:20:50,682 INFO Request ID is c2188db1-3f45-4a0a-a2ce-4014188fdaa4
+2025-12-16 05:20:50,972 INFO status has been updated to accepted
+2025-12-16 05:21:00,175 INFO status has been updated to running
+2025-12-16 05:31:14,175 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2013_02.nc
+⏳ 请求中: 2013-03 ...
+4ac79532863579a3b0a041d071d50e2d.zip:   0%|          | 0.00/1.89M [00:00<?, ?B/s]4ac79532863579a3b0a041d071d50e2d.zip:  53%|█████▎    | 1.00M/1.89M [00:02<00:01, 518kB/s]4ac79532863579a3b0a041d071d50e2d.zip: 100%|██████████| 1.89M/1.89M [00:02<00:00, 902kB/s]                                                                                         2025-12-16 05:31:18,047 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 05:31:18,048 INFO Request ID is 3505ae6f-b5cf-4e7f-a313-40c0ff145ba0
+2025-12-16 05:31:18,247 INFO status has been updated to accepted
+2025-12-16 05:31:32,476 INFO status has been updated to running
+2025-12-16 05:43:41,702 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2013_03.nc
+⏳ 请求中: 2013-04 ...
+f18cbac80517d925c8b6eb844b9585b3.zip:   0%|          | 0.00/1.84M [00:00<?, ?B/s]f18cbac80517d925c8b6eb844b9585b3.zip:  54%|█████▍    | 1.00M/1.84M [00:02<00:01, 521kB/s]f18cbac80517d925c8b6eb844b9585b3.zip: 100%|██████████| 1.84M/1.84M [00:02<00:00, 1.01MB/s]                                                                                          2025-12-16 05:43:45,538 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 05:43:45,538 INFO Request ID is a4defeb2-9c56-4dad-937e-f8753a808582
+2025-12-16 05:43:46,140 INFO status has been updated to accepted
+2025-12-16 05:43:55,039 INFO status has been updated to running
+2025-12-16 05:56:11,391 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2013_04.nc
+⏳ 请求中: 2013-05 ...
+e59f23557e02215149a5829a4ce950a0.zip:   0%|          | 0.00/1.97M [00:00<?, ?B/s]e59f23557e02215149a5829a4ce950a0.zip:  51%|█████     | 1.00M/1.97M [00:02<00:01, 511kB/s]e59f23557e02215149a5829a4ce950a0.zip: 100%|██████████| 1.97M/1.97M [00:02<00:00, 1.06MB/s]                                                                                          2025-12-16 05:56:15,101 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 05:56:15,102 INFO Request ID is d3683906-de02-415a-a63b-8aa4ec2078d1
+2025-12-16 05:56:15,304 INFO status has been updated to accepted
+2025-12-16 05:57:06,166 INFO status has been updated to running
+2025-12-16 06:06:39,723 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2013_05.nc
+⏳ 请求中: 2013-06 ...
+af4660eb5cf4101a6b8a4ff813b8d9b1.zip:   0%|          | 0.00/1.97M [00:00<?, ?B/s]af4660eb5cf4101a6b8a4ff813b8d9b1.zip:  51%|█████     | 1.00M/1.97M [00:01<00:01, 601kB/s]af4660eb5cf4101a6b8a4ff813b8d9b1.zip: 100%|██████████| 1.97M/1.97M [00:01<00:00, 1.25MB/s]                                                                                          2025-12-16 06:06:43,086 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 06:06:43,086 INFO Request ID is 38e95816-1b82-41d0-9229-984fbe1cf452
+2025-12-16 06:06:43,296 INFO status has been updated to accepted
+2025-12-16 06:06:57,496 INFO status has been updated to running
+2025-12-16 06:19:06,733 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2013_06.nc
+⏳ 请求中: 2013-07 ...
+6dc0286437f8f9830ac3460bb6897c2.zip:   0%|          | 0.00/1.89M [00:00<?, ?B/s]6dc0286437f8f9830ac3460bb6897c2.zip:  53%|█████▎    | 1.00M/1.89M [00:02<00:01, 489kB/s]6dc0286437f8f9830ac3460bb6897c2.zip: 100%|██████████| 1.89M/1.89M [00:02<00:00, 970kB/s]                                                                                        2025-12-16 06:19:10,515 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 06:19:10,516 INFO Request ID is 9527c2e3-800a-4466-a6b6-666245418c31
+2025-12-16 06:19:10,749 INFO status has been updated to accepted
+2025-12-16 06:19:44,307 INFO status has been updated to running
+Recovering from connection error [HTTPSConnectionPool(host='cds.climate.copernicus.eu', port=443): Read timed out. (read timeout=60)], attempt 1 of 500
+Retrying in 120 seconds
+2025-12-16 06:30:33,770 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2013_07.nc
+⏳ 请求中: 2013-08 ...
+334f4959acfad5ce421ebe5b9d85dd87.zip:   0%|          | 0.00/1.95M [00:00<?, ?B/s]334f4959acfad5ce421ebe5b9d85dd87.zip:  51%|█████▏    | 1.00M/1.95M [00:01<00:01, 604kB/s]334f4959acfad5ce421ebe5b9d85dd87.zip: 100%|██████████| 1.95M/1.95M [00:01<00:00, 1.25MB/s]                                                                                          2025-12-16 06:30:37,145 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 06:30:37,145 INFO Request ID is ad142049-2658-45bc-96f0-fb6cd1cf7177
+2025-12-16 06:30:37,340 INFO status has been updated to accepted
+2025-12-16 06:30:51,550 INFO status has been updated to running
+2025-12-16 06:43:00,685 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2013_08.nc
+⏳ 请求中: 2013-09 ...
+33a4fc06f94d5817ca79e1bb0e4d5c65.zip:   0%|          | 0.00/1.89M [00:00<?, ?B/s]33a4fc06f94d5817ca79e1bb0e4d5c65.zip:  53%|█████▎    | 1.00M/1.89M [00:01<00:01, 614kB/s]33a4fc06f94d5817ca79e1bb0e4d5c65.zip: 100%|██████████| 1.89M/1.89M [00:01<00:00, 1.22MB/s]                                                                                          2025-12-16 06:43:04,217 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 06:43:04,217 INFO Request ID is 0f91b7d0-f502-47f2-9b8f-5c32836bb13c
+2025-12-16 06:43:04,428 INFO status has been updated to accepted
+2025-12-16 06:43:26,484 INFO status has been updated to running
+2025-12-16 06:55:28,195 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2013_09.nc
+⏳ 请求中: 2013-10 ...
+25213e400745f1948a0b805e9279ef73.zip:   0%|          | 0.00/1.88M [00:00<?, ?B/s]25213e400745f1948a0b805e9279ef73.zip:  53%|█████▎    | 1.00M/1.88M [00:01<00:01, 596kB/s]25213e400745f1948a0b805e9279ef73.zip: 100%|██████████| 1.88M/1.88M [00:01<00:00, 1.18MB/s]                                                                                          2025-12-16 06:55:31,692 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 06:55:31,693 INFO Request ID is 72b2f186-366f-4641-abd7-e7b52162457c
+2025-12-16 06:55:31,916 INFO status has been updated to accepted
+2025-12-16 06:55:46,107 INFO status has been updated to running
+2025-12-16 07:07:55,903 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2013_10.nc
+⏳ 请求中: 2013-11 ...
+ddb11635e122bed23872d49554a1d396.zip:   0%|          | 0.00/1.77M [00:00<?, ?B/s]ddb11635e122bed23872d49554a1d396.zip:  56%|█████▋    | 1.00M/1.77M [00:01<00:01, 629kB/s]ddb11635e122bed23872d49554a1d396.zip: 100%|██████████| 1.77M/1.77M [00:01<00:00, 1.19MB/s]                                                                                          2025-12-16 07:07:59,368 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 07:07:59,369 INFO Request ID is 7c68c1a0-abf9-4e88-8bed-f4230b23a54c
+2025-12-16 07:07:59,654 INFO status has been updated to accepted
+2025-12-16 07:08:14,133 INFO status has been updated to running
+2025-12-16 07:08:33,598 INFO status has been updated to accepted
+2025-12-16 07:08:50,921 INFO status has been updated to running
+2025-12-16 07:20:23,634 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2013_11.nc
+⏳ 请求中: 2013-12 ...
+ff164ca32352b9ca19eb965c0c1765c2.zip:   0%|          | 0.00/1.80M [00:00<?, ?B/s]ff164ca32352b9ca19eb965c0c1765c2.zip:  56%|█████▌    | 1.00M/1.80M [00:02<00:01, 500kB/s]ff164ca32352b9ca19eb965c0c1765c2.zip: 100%|██████████| 1.80M/1.80M [00:02<00:00, 949kB/s]                                                                                         2025-12-16 07:20:27,558 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 07:20:27,558 INFO Request ID is 245d2f8f-5d6b-4f91-a405-4fc757fb78c9
+2025-12-16 07:20:27,806 INFO status has been updated to accepted
+2025-12-16 07:20:42,321 INFO status has been updated to running
+Recovering from connection error [('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))], attempt 1 of 500
+Retrying in 120 seconds
+2025-12-16 07:35:48,629 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2013_12.nc
+⏳ 请求中: 2014-01 ...
+fba6883a3e54a9136b7fefde1ac445c3.zip:   0%|          | 0.00/1.84M [00:00<?, ?B/s]fba6883a3e54a9136b7fefde1ac445c3.zip:  54%|█████▍    | 1.00M/1.84M [00:02<00:01, 515kB/s]fba6883a3e54a9136b7fefde1ac445c3.zip: 100%|██████████| 1.84M/1.84M [00:02<00:00, 1.00MB/s]                                                                                          2025-12-16 07:35:52,322 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 07:35:52,322 INFO Request ID is 35762bcd-c0ec-4307-acf0-6eb2a6afebbb
+2025-12-16 07:35:52,520 INFO status has been updated to accepted
+2025-12-16 07:36:08,597 INFO status has been updated to running
+2025-12-16 07:46:17,260 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2014_01.nc
+⏳ 请求中: 2014-02 ...
+535e29416c0925e56b29264cfbce52af.zip:   0%|          | 0.00/1.80M [00:00<?, ?B/s]535e29416c0925e56b29264cfbce52af.zip:  56%|█████▌    | 1.00M/1.80M [00:02<00:01, 491kB/s]535e29416c0925e56b29264cfbce52af.zip: 100%|██████████| 1.80M/1.80M [00:02<00:00, 924kB/s]                                                                                         2025-12-16 07:46:21,195 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 07:46:21,196 INFO Request ID is 0ec5831b-5798-4cad-92d7-9332d2b22fd6
+2025-12-16 07:46:21,400 INFO status has been updated to accepted
+2025-12-16 07:46:55,007 INFO status has been updated to running
+2025-12-16 07:58:45,061 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2014_02.nc
+⏳ 请求中: 2014-03 ...
+86fdfcc5999c4142450e6453b185b64f.zip:   0%|          | 0.00/1.90M [00:00<?, ?B/s]86fdfcc5999c4142450e6453b185b64f.zip:  53%|█████▎    | 1.00M/1.90M [00:02<00:01, 523kB/s]86fdfcc5999c4142450e6453b185b64f.zip: 100%|██████████| 1.90M/1.90M [00:02<00:00, 1.04MB/s]                                                                                          2025-12-16 07:58:49,045 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 07:58:49,045 INFO Request ID is 52bfcdf8-73ab-4449-8050-cc76c5ca21c1
+2025-12-16 07:58:49,683 INFO status has been updated to accepted
+2025-12-16 07:59:41,262 INFO status has been updated to running
+2025-12-16 08:11:13,924 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2014_03.nc
+⏳ 请求中: 2014-04 ...
+91ae2a49203c255724956dc75dc15120.zip:   0%|          | 0.00/1.90M [00:00<?, ?B/s]91ae2a49203c255724956dc75dc15120.zip:  53%|█████▎    | 1.00M/1.90M [00:01<00:01, 655kB/s]91ae2a49203c255724956dc75dc15120.zip: 100%|██████████| 1.90M/1.90M [00:01<00:00, 1.31MB/s]                                                                                          2025-12-16 08:11:18,891 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 08:11:18,891 INFO Request ID is 23e9bd87-e2a6-4cc7-b86a-93d537d50ece
+2025-12-16 08:11:19,097 INFO status has been updated to accepted
+2025-12-16 08:11:28,027 INFO status has been updated to running
+2025-12-16 08:23:42,333 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2014_04.nc
+⏳ 请求中: 2014-05 ...
+8b0ca106a9ca4a3febfb482a92c3df6e.zip:   0%|          | 0.00/1.94M [00:00<?, ?B/s]8b0ca106a9ca4a3febfb482a92c3df6e.zip:  52%|█████▏    | 1.00M/1.94M [00:01<00:01, 616kB/s]8b0ca106a9ca4a3febfb482a92c3df6e.zip: 100%|██████████| 1.94M/1.94M [00:01<00:00, 1.26MB/s]                                                                                          2025-12-16 08:23:45,656 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 08:23:45,657 INFO Request ID is e733e3b9-52a2-4494-ac2d-ca3fbe8d57cf
+2025-12-16 08:23:45,870 INFO status has been updated to accepted
+2025-12-16 08:24:00,081 INFO status has been updated to running
+2025-12-16 08:34:08,466 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2014_05.nc
+⏳ 请求中: 2014-06 ...
+96c740040cf0c4eb1b80c013fa3589a0.zip:   0%|          | 0.00/1.94M [00:00<?, ?B/s]96c740040cf0c4eb1b80c013fa3589a0.zip:  51%|█████▏    | 1.00M/1.94M [00:02<00:01, 498kB/s]96c740040cf0c4eb1b80c013fa3589a0.zip: 100%|██████████| 1.94M/1.94M [00:02<00:00, 1.02MB/s]                                                                                          2025-12-16 08:34:12,398 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 08:34:12,398 INFO Request ID is 51161d57-3f2e-4251-838e-e00af4156cbc
+2025-12-16 08:34:12,593 INFO status has been updated to accepted
+2025-12-16 08:34:26,765 INFO status has been updated to running
+2025-12-16 08:34:34,625 INFO status has been updated to accepted
+2025-12-16 08:34:46,198 INFO status has been updated to running
+2025-12-16 08:46:36,500 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2014_06.nc
+⏳ 请求中: 2014-07 ...
+886df980f80944798d9fddacba2adeb1.zip:   0%|          | 0.00/2.02M [00:00<?, ?B/s]886df980f80944798d9fddacba2adeb1.zip:  50%|████▉     | 1.00M/2.02M [00:01<00:01, 622kB/s]886df980f80944798d9fddacba2adeb1.zip:  99%|█████████▉| 2.00M/2.02M [00:01<00:00, 1.31MB/s]                                                                                          2025-12-16 08:46:40,062 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 08:46:40,062 INFO Request ID is 46b07542-d9b6-4b8f-a4f2-229163817c8f
+2025-12-16 08:46:40,433 INFO status has been updated to accepted
+2025-12-16 08:47:31,660 INFO status has been updated to running
+2025-12-16 08:59:04,621 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2014_07.nc
+⏳ 请求中: 2014-08 ...
+68d8ac1a1c47b4f1fc4baa53aa008c79.zip:   0%|          | 0.00/2.03M [00:00<?, ?B/s]68d8ac1a1c47b4f1fc4baa53aa008c79.zip:  49%|████▉     | 1.00M/2.03M [00:01<00:01, 597kB/s]68d8ac1a1c47b4f1fc4baa53aa008c79.zip:  98%|█████████▊| 2.00M/2.03M [00:01<00:00, 1.28MB/s]                                                                                          2025-12-16 08:59:08,179 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 08:59:08,179 INFO Request ID is d6a5aaaa-2b12-468a-ae06-5eaf43fb2ae4
+2025-12-16 08:59:08,390 INFO status has been updated to accepted
+2025-12-16 08:59:30,412 INFO status has been updated to running
+2025-12-16 09:09:31,655 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2014_08.nc
+⏳ 请求中: 2014-09 ...
+d9b682b2d157384199bfb7ae3185fd.zip:   0%|          | 0.00/1.92M [00:00<?, ?B/s]d9b682b2d157384199bfb7ae3185fd.zip:  52%|█████▏    | 1.00M/1.92M [00:01<00:01, 624kB/s]d9b682b2d157384199bfb7ae3185fd.zip: 100%|██████████| 1.92M/1.92M [00:01<00:00, 1.25MB/s]                                                                                        2025-12-16 09:09:35,411 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 09:09:35,411 INFO Request ID is b37e0430-d29e-4e66-951e-8026e90a910e
+2025-12-16 09:09:35,607 INFO status has been updated to accepted
+2025-12-16 09:15:57,339 INFO status has been updated to running
+2025-12-16 09:26:00,694 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2014_09.nc
+⏳ 请求中: 2014-10 ...
+cb1ea5e4c7cd962ce264d5e15a5d57f1.zip:   0%|          | 0.00/1.85M [00:00<?, ?B/s]cb1ea5e4c7cd962ce264d5e15a5d57f1.zip:  54%|█████▍    | 1.00M/1.85M [00:02<00:01, 504kB/s]cb1ea5e4c7cd962ce264d5e15a5d57f1.zip: 100%|██████████| 1.85M/1.85M [00:02<00:00, 975kB/s]                                                                                         2025-12-16 09:26:04,828 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 09:26:04,828 INFO Request ID is d0005cf1-deb5-40cb-b244-8d8813f97e8e
+2025-12-16 09:26:05,080 INFO status has been updated to accepted
+2025-12-16 09:26:39,058 INFO status has been updated to running
+2025-12-16 09:38:29,350 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2014_10.nc
+⏳ 请求中: 2014-11 ...
+8c48eb9c7be5b0d5214ab15ea8c475b0.zip:   0%|          | 0.00/1.83M [00:00<?, ?B/s]8c48eb9c7be5b0d5214ab15ea8c475b0.zip:  55%|█████▍    | 1.00M/1.83M [00:01<00:01, 635kB/s]8c48eb9c7be5b0d5214ab15ea8c475b0.zip: 100%|██████████| 1.83M/1.83M [00:01<00:00, 1.25MB/s]                                                                                          2025-12-16 09:38:32,735 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 09:38:32,736 INFO Request ID is 5e45f68c-d39e-4dfa-83ad-40490450b019
+2025-12-16 09:38:32,946 INFO status has been updated to accepted
+2025-12-16 09:39:23,860 INFO status has been updated to running
+2025-12-16 09:50:56,367 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2014_11.nc
+⏳ 请求中: 2014-12 ...
+508979896744ad705f13552b195923da.zip:   0%|          | 0.00/1.80M [00:00<?, ?B/s]508979896744ad705f13552b195923da.zip:  56%|█████▌    | 1.00M/1.80M [00:01<00:01, 651kB/s]508979896744ad705f13552b195923da.zip: 100%|██████████| 1.80M/1.80M [00:01<00:00, 1.24MB/s]                                                                                          2025-12-16 09:50:59,645 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 09:50:59,645 INFO Request ID is b891a145-f896-4e9a-87a1-4bd0d35fd170
+2025-12-16 09:50:59,859 INFO status has been updated to accepted
+2025-12-16 09:53:53,658 INFO status has been updated to running
+2025-12-16 09:57:21,881 INFO status has been updated to accepted
+2025-12-16 10:13:28,707 INFO status has been updated to running
+2025-12-16 10:17:30,105 INFO status has been updated to accepted
+2025-12-16 10:23:31,960 INFO status has been updated to running
+2025-12-16 10:33:37,138 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2014_12.nc
+⏳ 请求中: 2015-01 ...
+e74ff4b8e11d6d8d0efb11552d638d3e.zip:   0%|          | 0.00/1.87M [00:00<?, ?B/s]e74ff4b8e11d6d8d0efb11552d638d3e.zip:  53%|█████▎    | 1.00M/1.87M [00:01<00:01, 588kB/s]e74ff4b8e11d6d8d0efb11552d638d3e.zip: 100%|██████████| 1.87M/1.87M [00:02<00:00, 729kB/s]                                                                                         2025-12-16 10:33:41,838 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 10:33:41,838 INFO Request ID is fce520bc-32b5-40f9-98e7-e324b5311a27
+2025-12-16 10:33:42,093 INFO status has been updated to accepted
+2025-12-16 10:38:03,350 INFO status has been updated to running
+2025-12-16 10:46:06,123 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2015_01.nc
+⏳ 请求中: 2015-02 ...
+a166bd6a08ba48892b1505e9b607e1f3.zip:   0%|          | 0.00/1.74M [00:00<?, ?B/s]a166bd6a08ba48892b1505e9b607e1f3.zip:  57%|█████▋    | 1.00M/1.74M [00:01<00:01, 541kB/s]a166bd6a08ba48892b1505e9b607e1f3.zip: 100%|██████████| 1.74M/1.74M [00:02<00:00, 948kB/s]                                                                                         2025-12-16 10:46:09,946 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 10:46:09,946 INFO Request ID is 027e4d6b-aff5-456d-b818-f5f0498f08a7
+2025-12-16 10:46:10,174 INFO status has been updated to accepted
+2025-12-16 11:00:35,789 INFO status has been updated to running
+2025-12-16 11:10:39,286 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2015_02.nc
+⏳ 请求中: 2015-03 ...
+9184fd3938d5d54dde6c282c4fcd4a2d.zip:   0%|          | 0.00/1.92M [00:00<?, ?B/s]9184fd3938d5d54dde6c282c4fcd4a2d.zip:  52%|█████▏    | 1.00M/1.92M [00:02<00:02, 419kB/s]9184fd3938d5d54dde6c282c4fcd4a2d.zip: 100%|██████████| 1.92M/1.92M [00:04<00:00, 444kB/s]                                                                                         2025-12-16 11:10:45,794 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 11:10:45,794 INFO Request ID is ea6933a8-950e-48f7-88cf-0b80812e9002
+2025-12-16 11:10:46,063 INFO status has been updated to accepted
+2025-12-16 11:12:42,222 INFO status has been updated to running
+2025-12-16 11:23:10,583 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2015_03.nc
+⏳ 请求中: 2015-04 ...
+60205c9e98f788f39263d6695d23a250.zip:   0%|          | 0.00/1.89M [00:00<?, ?B/s]60205c9e98f788f39263d6695d23a250.zip:  53%|█████▎    | 1.00M/1.89M [00:01<00:01, 636kB/s]60205c9e98f788f39263d6695d23a250.zip: 100%|██████████| 1.89M/1.89M [00:01<00:00, 1.26MB/s]                                                                                          2025-12-16 11:23:14,207 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 11:23:14,207 INFO Request ID is 699ce62c-4eba-4373-a770-88b7e272f23a
+2025-12-16 11:23:14,485 INFO status has been updated to accepted
+2025-12-16 11:25:10,584 INFO status has been updated to running
+2025-12-16 11:37:39,385 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2015_04.nc
+⏳ 请求中: 2015-05 ...
+ceff7d3294011852f0b9473c704f4b87.zip:   0%|          | 0.00/1.96M [00:00<?, ?B/s]ceff7d3294011852f0b9473c704f4b87.zip:  51%|█████     | 1.00M/1.96M [00:09<00:09, 110kB/s]ceff7d3294011852f0b9473c704f4b87.zip: 100%|██████████| 1.96M/1.96M [00:18<00:00, 111kB/s]                                                                                         2025-12-16 11:37:59,576 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 11:37:59,576 INFO Request ID is 1c8fefa2-98dd-421b-82f4-a8e3e0cf315a
+2025-12-16 11:37:59,778 INFO status has been updated to accepted
+2025-12-16 11:39:55,109 INFO status has been updated to running
+2025-12-16 11:50:23,614 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2015_05.nc
+⏳ 请求中: 2015-06 ...
+a0c1d5c3c02086e1380b97f55c6aa515.zip:   0%|          | 0.00/1.99M [00:00<?, ?B/s]a0c1d5c3c02086e1380b97f55c6aa515.zip:  50%|█████     | 1.00M/1.99M [00:03<00:03, 282kB/s]a0c1d5c3c02086e1380b97f55c6aa515.zip: 100%|██████████| 1.99M/1.99M [00:17<00:00, 112kB/s]                                                                                         2025-12-16 11:50:42,140 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 11:50:42,141 INFO Request ID is 69e0fcf2-6ff2-4a6e-aa7f-ad97813b41ed
+2025-12-16 11:50:42,364 INFO status has been updated to accepted
+2025-12-16 11:57:04,126 INFO status has been updated to running
+2025-12-16 12:07:08,515 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2015_06.nc
+⏳ 请求中: 2015-07 ...
+33dc3d9b0c1dcdff7f648193bb401b15.zip:   0%|          | 0.00/2.01M [00:00<?, ?B/s]33dc3d9b0c1dcdff7f648193bb401b15.zip:  50%|████▉     | 1.00M/2.01M [00:01<00:01, 576kB/s]33dc3d9b0c1dcdff7f648193bb401b15.zip: 100%|█████████▉| 2.00M/2.01M [00:02<00:00, 995kB/s]                                                                                         2025-12-16 12:07:12,931 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 12:07:12,931 INFO Request ID is b83e5dc8-9ceb-48b0-96f3-2521878cc783
+2025-12-16 12:07:13,179 INFO status has been updated to accepted
+2025-12-16 12:08:31,256 INFO status has been updated to running
+2025-12-16 12:19:39,231 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2015_07.nc
+⏳ 请求中: 2015-08 ...
+27702602974d00bc3a2e4187124db112.zip:   0%|          | 0.00/1.99M [00:00<?, ?B/s]27702602974d00bc3a2e4187124db112.zip:  50%|█████     | 1.00M/1.99M [00:01<00:01, 668kB/s]27702602974d00bc3a2e4187124db112.zip: 100%|██████████| 1.99M/1.99M [00:01<00:00, 1.40MB/s]                                                                                          2025-12-16 12:19:42,700 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 12:19:42,701 INFO Request ID is 32b55d96-d6e5-4b59-bc75-746cf39edaec
+2025-12-16 12:19:42,928 INFO status has been updated to accepted
+2025-12-16 12:22:38,100 INFO status has been updated to running
+2025-12-16 12:34:12,918 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2015_08.nc
+⏳ 请求中: 2015-09 ...
+f5ebe75c6f10257b97f6e3e2875b35a0.zip:   0%|          | 0.00/1.90M [00:00<?, ?B/s]f5ebe75c6f10257b97f6e3e2875b35a0.zip:  53%|█████▎    | 1.00M/1.90M [00:27<00:24, 38.4kB/s]f5ebe75c6f10257b97f6e3e2875b35a0.zip:  53%|█████▎    | 1.00M/1.90M [00:40<00:24, 38.4kB/s]f5ebe75c6f10257b97f6e3e2875b35a0.zip: 100%|██████████| 1.90M/1.90M [00:51<00:00, 39.3kB/s]                                                                                          2025-12-16 12:35:06,936 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 12:35:06,936 INFO Request ID is e4a4bf08-1b57-42c3-a61e-ecf56dba17d9
+2025-12-16 12:35:07,400 INFO status has been updated to accepted
+2025-12-16 12:35:21,669 INFO status has been updated to running
+2025-12-16 12:47:35,400 INFO status has been updated to successful
+🎉 下载成功: shanghai_all_2015_09.nc
+⏳ 请求中: 2015-10 ...
+b83fd4854cbbbca722daa2c8837504e5.zip:   0%|          | 0.00/1.89M [00:00<?, ?B/s]b83fd4854cbbbca722daa2c8837504e5.zip:  53%|█████▎    | 1.00M/1.89M [00:36<00:32, 28.8kB/s]b83fd4854cbbbca722daa2c8837504e5.zip:  53%|█████▎    | 1.00M/1.89M [00:48<00:32, 28.8kB/s]b83fd4854cbbbca722daa2c8837504e5.zip: 100%|██████████| 1.89M/1.89M [01:12<00:00, 26.9kB/s]                                                                                          2025-12-16 12:48:50,845 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-16 12:48:50,845 INFO Request ID is 92774464-e2f7-400c-9968-57921eb426dc
+2025-12-16 12:48:51,068 INFO status has been updated to accepted

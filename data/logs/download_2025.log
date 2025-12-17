@@ -1,0 +1,69 @@
+nohup: ignoring input
+2025-12-12 18:03:02,174 INFO [2025-12-03T00:00:00Z] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-12-12 18:03:03,279 INFO Request ID is dbf20675-ff22-4e20-bb14-21243790c040
+2025-12-12 18:03:03,599 INFO status has been updated to accepted
+2025-12-12 18:09:52,891 INFO status has been updated to successful
+Skip: shanghai_era5_land_2025_01.nc
+Skip: shanghai_era5_land_2025_02.nc
+Downloading 2025-03...
+5a4dd6b0c1475081ece7b57b4407b611.zip:   0%|          | 0.00/1.28M [00:00<?, ?B/s]5a4dd6b0c1475081ece7b57b4407b611.zip:  78%|███████▊  | 1.00M/1.28M [01:31<00:25, 11.4kB/s]5a4dd6b0c1475081ece7b57b4407b611.zip:  78%|███████▊  | 1.00M/1.28M [01:50<00:25, 11.4kB/s]5a4dd6b0c1475081ece7b57b4407b611.zip: 100%|██████████| 1.28M/1.28M [01:55<00:00, 11.7kB/s]                                                                                          2025-12-12 18:11:54,522 INFO Request ID is 07f8648b-e5cf-4102-9fd3-e8ef7fb6b746
+2025-12-12 18:11:54,740 INFO status has been updated to accepted
+2025-12-12 18:18:45,760 INFO status has been updated to successful
+Success: shanghai_era5_land_2025_03.nc
+Downloading 2025-04...
+cfc59f5678abca45304f803e762b8988.zip:   0%|          | 0.00/1.20M [00:00<?, ?B/s]cfc59f5678abca45304f803e762b8988.zip:  84%|████████▎ | 1.00M/1.20M [01:30<00:17, 11.6kB/s]cfc59f5678abca45304f803e762b8988.zip:  84%|████████▎ | 1.00M/1.20M [01:47<00:17, 11.6kB/s]cfc59f5678abca45304f803e762b8988.zip: 100%|██████████| 1.20M/1.20M [01:47<00:00, 11.7kB/s]                                                                                          2025-12-12 18:20:38,788 INFO Request ID is 26998dff-9dc5-4b61-8115-bcabf66a9158
+2025-12-12 18:20:38,989 INFO status has been updated to accepted
+2025-12-12 18:27:27,481 INFO status has been updated to successful
+Success: shanghai_era5_land_2025_04.nc
+Downloading 2025-05...
+7c6214112ebd10a12b91701fe1bb5d12.zip:   0%|          | 0.00/1.26M [00:00<?, ?B/s]7c6214112ebd10a12b91701fe1bb5d12.zip:  79%|███████▉  | 1.00M/1.26M [02:09<00:33, 8.09kB/s]7c6214112ebd10a12b91701fe1bb5d12.zip:  79%|███████▉  | 1.00M/1.26M [02:25<00:33, 8.09kB/s]7c6214112ebd10a12b91701fe1bb5d12.zip: 100%|██████████| 1.26M/1.26M [02:35<00:00, 8.65kB/s]                                                                                          2025-12-12 18:30:27,591 INFO Request ID is ade440a2-893a-476a-8af1-8ba27c64a8ad
+2025-12-12 18:30:27,952 INFO status has been updated to accepted
+2025-12-12 18:35:22,194 INFO status has been updated to successful
+Success: shanghai_era5_land_2025_05.nc
+Downloading 2025-06...
+a59c2184e92a4a4a0aa55e0feff9a48a.zip:   0%|          | 0.00/1.30M [00:00<?, ?B/s]a59c2184e92a4a4a0aa55e0feff9a48a.zip:  77%|███████▋  | 1.00M/1.30M [01:33<00:28, 11.3kB/s]a59c2184e92a4a4a0aa55e0feff9a48a.zip:  77%|███████▋  | 1.00M/1.30M [01:49<00:28, 11.3kB/s]a59c2184e92a4a4a0aa55e0feff9a48a.zip: 100%|██████████| 1.30M/1.30M [02:00<00:00, 11.3kB/s]                                                                                          2025-12-12 18:37:39,949 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-12 18:37:39,950 INFO Request ID is ec111cff-cad2-49d1-94a2-ce749c0ab7ce
+2025-12-12 18:37:40,196 INFO status has been updated to accepted
+2025-12-12 18:44:07,485 INFO status has been updated to successful
+Success: shanghai_era5_land_2025_06.nc
+Downloading 2025-07...
+c866263d99e95b24fb87dec005aa9e1.zip:   0%|          | 0.00/1.35M [00:00<?, ?B/s]c866263d99e95b24fb87dec005aa9e1.zip:  74%|████2025-12-12 18:44:59,116 INFO status has been updated to successful
+Success: shanghai_era5_land_2025_06.nc
+Downloading 2025-07...
+c866263d99e95b24fb87dec005aa9e1.zip:   0%|          | 0.00/1.35M [00:00<?, ?B/s]c866263d99e95b24fb87dec005aa9e1.zip:  74%|███████▍  | 1.00M/1.35M [01:03<00:22, 16.5kB/s]c866263d99e95b24fb87dec005aa9e1.zip:  74%|███████▍  | 1.00M/1.35M [01:19<00:22, 16.5kB/s]c866263d99e95b24fb87dec005aa9e1.zip: 100%|██████████| 1.35M/1.35M [01:22<00:00, 17.3kB/s]                                                                                         2025-12-12 18:46:24,550 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an 2025-12-12 18:53:33,075 INFO status has been updated to successful
+Error downloading 07: File size mismatch 0 bytes instead of 1414079
+Downloading 2025-08...
+5f5b7ae645e2e4478630f333d7d12be5.zip:   0%|          | 0.00/1.29M [00:00<?, ?B/s]5f5b7ae645e2e4478630f333d7d12be5.zip:  77%|███████�2025-12-12 18:54:49,568 INFO status has been updated to successful
+Success: shanghai_era5_land_2025_07.nc
+Downloading 2025-08...
+5f5b7ae645e2e4478630f333d7d12be5.zip:   0%|          | 0.00/1.29M [00:00<?, ?B/s]5f5b7ae645e2e4478630f333d7d12be5.zip:  77%|███████▋  | 1.00M/1.29M [00:58<00:17, 18.1kB/s]5f5b7ae645e2e4478630f333d7d12be5.zip:  77%|███████▋  | 1.00M/1.29M [01:09<00:17, 18.1kB/s]5f5b7ae645e2e4478630f333d7d12be5.zip: 100%|██████████| 1.29M/1.29M [01:17<00:00, 17.3kB/s]                                                                                          2025-12-12 18:56:09,012 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single 2025-12-12 19:02:49,776 INFO status has been updated to successful
+Success: shanghai_era5_land_2025_08.nc
+Downloading 2025-09...
+6442609f4b5dc16b42f93f771c15d075.zip:   0%|          | 0.00/1.31M [00:00<?, ?B/s]6442609f4b5dc16b42f93f771c15d075.zip:  76%|███████▌  | 1.00M/1.31M [00:43<00:13, 24.3kB/s]6442609f4b5dc16b42f93f771c15d075.zip:  76%|███████▌  | 1.00M/1.31M [00:54<00:13, 24.3kB/s]6442609f4b5dc16b42f93f771c15d075.zip: 100%|██████████| 1.31M/1.31M [00:55<00:00, 25.1kB/s]                                                                                          2025-12-12 6442609f4b5dc16b42f93f771c15d075.zip:  76%|███████▌  | 1.00M/1.31M [01:16<00:19, 17.0kB/s]6442609f4b5dc16b42f93f771c15d075.zip: 100%|██████████| 1.31M/1.31M [01:22<00:00, 16.6kB/s]                                                                                          2025-12-12 19:03:58,060 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single 2025-12-12 19:04:04,911 INFO status has been updated to running
+2025-12-12 19:12:18,735 INFO status has been updated to successful
+Success: shanghai_era5_land_2025_09.nc
+Downloading 2025-10...
+ebf5a961a7c84a0c022bc4c760d975e6.zip:   0%|          | 0.00/1.30M [00:00<?, ?B/s]ebf5a961a7c84a0c022bc4c760d975e6.zip:  77%|███████▋  | 1.00M/1.30M [00:26<00:07, 40.0kB/s]ebf5a961a7c84a0c022bc4c760d975e6.zip: 100%|██████████| 1.30M/1.30M [00:33<00:00, 41.4kB/s]                                      ebf5a961a7c84a0c022bc4c760d975e6.zip:  77%|███████▋  | 1.00M/1.30M [01:10<00:20, 15.0kB/s]ebf5a961a7c84a0c022bc4c760d975e6.zip:  77%|███████▋  | 1.00M/1.30M [01:25<00:20, 15.0kB/s]                                                                                          Recovering from connection error [('Connection broken: IncompleteRead(1353161 bytes read, 8359 more expected)', IncompleteRead(1353161 bytes read, 8359 more expected))], attempt 1 of 500
+Retrying in 120 seconds
+Recovering from connection error [HTTPSConnectionPool(host='cds.climate.copernicus.eu', port=443): Read timed out. (read timeout=60)], attempt 1 of 500
+Retrying in 120 seconds
+2025-12-12 19:18:59,058 INFO [2025-12-11T00:00:00] Ple2025-12-12 19:19:24,204 INFO status has been updated to successful
+Error downloading 10: File size mismatch 0 bytes instead of 1361520
+Downloading 2025-11...
+f12bbc078c0fcd74e2f9875b4f591aef.zip:   0%|          | 0.00/1.18M [00:00<?, ?B/s]f12bbc078c0fcd74e2f9875b4f591aef.zip:  85%|████████▍ | 1.00M/1.18M [02:48<00:30, 6.21kB/s]f12bbc078c0fcd74e2f9875b4f591aef.zip:  85%|████████▍ | 1.00M/1.18M [03:00<00:30, 6.21kB/s]f12bbc078c0fcd74e2f9875b4f591aef.zip: 100%|██████████| 1.18M/1.18M [03:02<00:00, 7.00kB/s]                                                                                          2025-12-12 19:22:29,228 INFO [2025-12-11T00:00:00] Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for optimised time-series retrievals (i.e. for retrieving data from selected variables for a single point over an extended period of time in an efficient way). You can discover it [here](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)
+2025-12-12 19:22:29,228 INFO Request ID is 56ba1919-8760-47f5-a266-f3af6016aaa6
+2025-12-12 19:22:29,464 INFO status has been updated to accepted
+2025-12-12 19:22:45,252 INFO status has been updated to running
+2025-12-12 19:22:53,679 INFO status has been updated to accepted
+2025-12-12 19:23:05,275 INFO status has been updated to successful
+Success: shanghai_era5_land_2025_11.nc
+Downloading 2025-12...
+205416fd690b362f67f7366f06780504.zip:   0%|          | 0.00/306k [00:00<?, ?B/s]205416fd690b362f67f7366f06780504.zip: 100%|██████████| 306k/306k [00:08<00:00, 36.3kB/s]                                                                                        Success: shanghai_era5_land_2025_12.nc
+ Please note that a dedicated catalogue entry for this dataset, post-processed and stored in Analysis Ready Cloud Optimized (ARCO) format (Zarr), is available for opt2025-12-12 19:22:33,548 INFO status has been updated to successful
+Error downloading 11: File size mismatch 0 bytes instead of 1239780
+Downloading 2025-12...
+205416fd690b362f67f7366f06780504.zip:   0%|          | 0.00/306k [00:00<?, ?B/s]205416fd690b362f67f7366f06780504.zip: 100%|██████████| 306k/306k [00:20<00:00, 15.5kB/s]                                                                                        Success: shanghai_era5_land_2025_12.nc
+ful
+Success: shanghai_era5_land_2025_11.nc
+Downloading 2025-12...
+205416fd690b362f67f7366f06780504.zip:   0%|          | 0.00/306k [00:00<?, ?B/s]205416fd690b362f67f7366f06780504.zip: 100%|██████████| 306k/306k [00:12<00:00, 25.7kB/s]                                                                                        Error downloading 12: File size mismatch 0 bytes instead of 313394
