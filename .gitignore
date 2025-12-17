@@ -1,0 +1,6 @@
+data/
+models/
+results/logs
+__pycache__/
+Sundial/
+.ipynb_checkpoints/

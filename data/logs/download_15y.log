@@ -1,5 +1,0 @@
-nohup: ignoring input
-Traceback (most recent call last):
-  File "/root/autodl-tmp/project/download_15years.py", line 1, in <module>
-    import cdsapi
-ModuleNotFoundError: No module named 'cdsapi'
